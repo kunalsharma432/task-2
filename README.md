@@ -37,3 +37,55 @@ df = pd.DataFrame(data, columns=[
 
 df.to_csv("Superstore.csv", index=False)
 print("Superstore.csv created.")
+
+#
+#What I Did:
+Created a sales dataset (Superstore.csv) using Python or manual entry in Excel.
+
+Imported the dataset into Power BI.
+
+Built key measures:
+
+Total Sales
+
+Total Profit
+
+Profit Margin
+
+Total Orders
+
+Average Discount
+
+Designed a clean and interactive dashboard.
+
+Added charts to show:
+
+Sales by Region
+
+Profit by Category
+
+Sales and Profit over Time
+
+Discount vs Profit (Scatter Plot)
+
+Used filters (slicers) for Region, Category, and Segment.
+
+Added text insights to explain key findings.
+
+🔹 Key Insights:
+West region had the highest sales.
+
+Technology category gave the most profit.
+
+Higher discounts led to lower profit margins.
+
+Sales and profit increased over time.
+
+🔹 Outcome:
+A well-designed dashboard showing important business insights.
+
+Practiced data storytelling using real-world sales data.
+
+Learned how to use DAX formulas, charts, and slicers in Power BI.
+
+Combined Python and Power BI skills in one project.
